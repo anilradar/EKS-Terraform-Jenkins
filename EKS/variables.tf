@@ -1,4 +1,4 @@
-variable "vpc_vidr" {
+variable "vpc_cidr" {
   description = "vpc-cidr"
   type        = string
 }
